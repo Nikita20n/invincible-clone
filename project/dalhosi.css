@@ -1,0 +1,387 @@
+
+
+.image-invincible {
+    margin-top: -55px !important;
+    margin-left: 60px !important;
+}
+
+.navbar-toggler {
+    margin-top: -45px !important;
+    border: none !important;
+    margin-right: 8% !important;
+}
+
+.temp {
+    position: absolute;
+    color: white;
+    margin-top: 75px;
+    font-size: 25px;
+    margin-left: -620px;
+}
+
+.temp-2 {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: -620px;
+}
+
+.typewrite {
+    color: white;
+    text-decoration: none;
+}
+
+.explore-btn {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: -620px;
+    border: none;
+    font-size: 18px;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.offcanvas {
+    height: 700px;
+    width: 300px !important;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.navbar {
+    z-index: 1;
+}
+
+.carousel {
+    margin-top: -122px;
+}
+
+.icon {
+    font-size: 24px;
+    margin-right: 12px;
+}
+
+.nav-link {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color: #000 !important;
+}
+
+.nav-item {
+    margin-bottom: 4px !important;
+}
+
+button.btn-close {
+    margin-left: 80% !important;
+    margin-top: 15px !important;
+}
+
+.contact {
+    margin-top: 70px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color: #DE5824 !important;
+}
+
+.img-carousal {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fa-circle-play {
+    position: absolute;
+    /* z-index: 0; */
+    margin-top: 200px;
+    margin-left: -720px;
+    color: white;
+    font-size: 65px;
+}
+
+.carousel-indicators {
+    background: rgba(0, 0, 0, .25);
+    width: 115px;
+    border-radius: 15px;
+    height: 15px;
+    margin-left: 46%
+}
+
+.circle {
+    border-radius: 50%;
+    height: 8px !important;
+    width: 8px !important;
+    background-color: #fff;
+    margin-top: -6px;
+}
+
+.Events {
+    color: #DE5824;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.Events2 {
+    color: #717171;
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+.include {
+    list-style-type: none;
+    margin-left: -33px;
+    margin-top: -14px;
+    font-size: 15px;
+}
+
+.include-2 {
+    list-style-type: none;
+    margin-left: -13px;
+    margin-top: -14px;
+    font-size: 15px;
+}
+
+.box-icon {
+    background-color: #e3e3e3;
+    padding: 8px;
+    border-radius: 50%;
+    color: #DE5824;
+    margin-top: 7px;
+}
+
+.dalhousie-main{
+    display: flex;
+}
+
+.main-info{
+        display: flex!important;
+        flex-wrap: wrap;
+        gap: 2rem !important;
+}
+
+.price-box {
+    margin-left: 80px;
+    margin-top: 25px;
+    border: 1px solid rgba(0, 0, 0, .125);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .15);
+    border-radius: 0.6rem;
+    padding: 15px;
+    width: 320px;
+    height: 300px;
+}
+
+.mobile-price-box{
+    display: none;
+}
+
+.booknow-btn {
+    margin-left: 1%;
+    margin-top: 12px;
+    border: none;
+    background-color: #DE5824;
+    color: white;
+    width: 250px;
+    height: 43px;
+    border-radius: 12px;
+    font-size: 25px;
+}
+
+.booknow-btn:hover {
+    background-color: #DE5824;
+}
+
+.cale-icon {
+    font-size: 25px;
+    margin-top: 6px;
+    margin-right: 10px;
+    color: #DE5824;
+}
+
+.fa-map {
+    font-size: 25px;
+    margin-top: 6px;
+    margin-right: 10px;
+    color: #DE5824;
+}
+
+.fa-user-group {
+    font-size: 25px;
+    margin-top: 6px;
+    margin-right: 10px;
+    color: #DE5824;
+}
+
+.icon-2 {
+    font-size: 25px;
+    margin-top: 6px;
+    margin-right: 10px;
+    color: #DE5824;
+}
+
+.info-1 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.info {
+    margin-top: -18px;
+}
+
+#more {
+    display: none;
+}
+
+#myBtn {
+    color: #de5824;
+    font-size: 16px;
+}
+
+.experiance-card-detail {
+    margin-bottom: -1px !important;
+    margin-top: -2px;
+}
+
+.Brochure {
+    margin-top: 15px;
+    border: 1px solid #de5824;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 4px 12px;
+    color: #de5824;
+}
+
+.Brochure:hover {
+    background-color: #de5824;
+    color: #fff;
+}
+
+.main {
+    background: #f1f1f1;
+}
+
+.main2 {
+    color: #DE5824;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+.session1{
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.join-us{
+    overflow-x: auto;
+    margin-bottom: 12px;
+    margin-top: -12px;
+}
+
+.join-card{
+    width: 200px;
+    border-radius: 19px;
+    height: 95% !important;
+    margin-left: 14px;
+    margin-top: 12px;
+    /* box-shadow: inset 0px 0px 0px 2px #de5824, 0px 0rem 1rem 2px rgba(0,0,0,.15); */
+}
+
+.join-card:hover{
+    box-shadow: inset 0px 0px 0px 2px #de5824, 0px 0rem 1rem 2px rgba(0,0,0,.15);
+}
+
+.join-card.selected{
+    box-shadow: inset 0px 0px 0px 2px #de5824, 0px 0rem 1rem 2px rgba(0,0,0,.15);
+}
+
+.card-img-top{
+    width: 170px;
+    margin: 14px 16px 9px 14px;
+    border-radius: 15px;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15);
+}
+
+.join-us-info{
+    margin-top: -13px;
+    margin-left: 5px;
+}
+
+.card-text-calender{
+    gap: 45px;
+}
+.dates-main{
+    gap: 15px;
+}
+
+.dates{
+    border: 2px solid #e3e3e3;
+    padding: 5px 12px;
+    border-radius: 50%;
+    font-size: 16px;
+}
+.line {
+    border-left: 2px solid #e3e3e3;
+    height: 2230px;
+  }
+  
+  .dot-red {
+    font-size: 35px;
+    color: #de5824;
+    margin-left: -7px;
+    margin-top: -23px;
+  }
+  
+  .dot-text,
+  .journey {
+    font-size: 15px;
+  }
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .dalhousie-main{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .join-us{
+        margin-left: -17px;
+    }
+
+    .max-altitude{
+        margin-left: 26px;
+    }
+
+    .price-box{
+        display: none;
+    }
+
+    .row-cols-1>* {
+        flex: auto;
+    }
+
+    .carousel-indicators{
+        margin-left: 35%;
+    }
+
+    .mobile-price-box{
+        display: block;
+        margin-top: 25px;
+        background-color: #f8f8f8;
+    }
+
+    .session{
+        background-color: #f8f8f8;
+        padding: 20px;
+    }
+
+    .session1{
+        margin-top: 0px;
+    }
+
+    .Brochure{
+        display: none;
+    }
+}
